@@ -14,6 +14,19 @@ conda create --name transfer_learning --file requirements.txt
 
 ## Usage Instructions
 
+### Dataset
+
+* Download JPL's dataset from [here](https://dataverse.jpl.nasa.gov/file.xhtml?fileId=83039&version=4.0)
+* Extract "data.zip" inside new directory "data".
+
+### Training
+
+Execute cells one by one to trigger training
+
+### Comparison
+
+Comparison can be drawn from graphs and evaluation metrics.
+
 ## Support Information
 
 Please raise an issue or a pull request.
